@@ -37,3 +37,17 @@ next-env.d.ts
 out/
 .env
 build
+
+# editor / agent tool dirs
+/.claude/
+/.agents/
+/.cline/
+/.cursor/
+
+# scratch
+/tmp/
+
+# rendered output + source media (kept local, not committed)
+/data/
+*.mp4
+*.mp3

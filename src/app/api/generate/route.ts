@@ -4,7 +4,7 @@ import {
   SKILL_NAMES,
   type SkillName,
 } from "@/skills";
-import { createOpenAI } from "@ai-sdk/openai";
+import { createAnthropic } from "@ai-sdk/anthropic";
 import { generateObject, streamText } from "ai";
 import { z } from "zod";
 
@@ -297,7 +297,7 @@ interface GenerateResponse {
 export async function POST(req: Request) {
   const {
     prompt,
-    model = "gpt-5.2",
+    model = "claude-sonnet-4-6",
     currentCode,
     conversationHistory = [],
     isFollowUp = false,
@@ -307,13 +307,13 @@ export async function POST(req: Request) {
     frameImages,
   }: GenerateRequest = await req.json();
 
-  const apiKey = process.env.OPENAI_API_KEY;
+  const apiKey = process.env.ANTHROPIC_API_KEY;
 
   if (!apiKey) {
     return new Response(
       JSON.stringify({
         error:
-          'The environment variable "OPENAI_API_KEY" is not set. Add it to your .env file and try again.',
+          'The environment variable "ANTHROPIC_API_KEY" is not set. Add it to your .env file and try again.',
       }),
       {
         status: 400,
@@ -325,13 +325,18 @@ export async function POST(req: Request) {
   // Parse model ID - format can be "model-name" or "model-name:reasoning_effort"
   const [modelName, reasoningEffort] = model.split(":");
 
-  const openai = createOpenAI({ apiKey });
+  const anthropic = createAnthropic({
+    apiKey,
+    // Use a dedicated var so an ambient ANTHROPIC_BASE_URL (set by Claude Code
+    // to api.anthropic.com) can't hijack the gateway endpoint.
+    baseURL: process.env.REMOTION_ANTHROPIC_BASE_URL || "https://api.aigogo.pro/v1",
+  });
 
   // Validate the prompt first (skip for follow-ups with existing code)
   if (!isFollowUp) {
     try {
       const validationResult = await generateObject({
-        model: openai("gpt-5.2"),
+        model: anthropic("claude-haiku-4-5"),
         system: VALIDATION_PROMPT,
         prompt: `User prompt: "${prompt}"`,
         schema: z.object({ valid: z.boolean() }),
@@ -357,7 +362,7 @@ export async function POST(req: Request) {
   let detectedSkills: SkillName[] = [];
   try {
     const skillResult = await generateObject({
-      model: openai("gpt-5.2"),
+      model: anthropic("claude-haiku-4-5"),
       system: SKILL_DETECTION_PROMPT,
       prompt: `User prompt: "${prompt}"`,
       schema: z.object({
@@ -510,7 +515,7 @@ Analyze the request and decide: use targeted edits (type: "edit") for small chan
       ];
 
       const editResult = await generateObject({
-        model: openai(modelName),
+        model: anthropic(modelName),
         system: FOLLOW_UP_SYSTEM_PROMPT,
         messages: editMessages,
         schema: FollowUpResponseSchema,
@@ -613,16 +618,16 @@ Analyze the request and decide: use targeted edits (type: "edit") for small chan
     ];
 
     const result = streamText({
-      model: openai(modelName),
+      model: anthropic(modelName),
       system: enhancedSystemPrompt,
       messages: initialMessages,
-      ...(reasoningEffort && {
-        providerOptions: {
-          openai: {
-            reasoningEffort: reasoningEffort,
-          },
-        },
-      }),
+      // NOTE: OpenAI-style reasoningEffort is not supported by Anthropic.
+      // For Claude extended thinking, uncomment and tune the budget instead:
+      // ...(reasoningEffort && {
+      //   providerOptions: {
+      //     anthropic: { thinking: { type: "enabled", budgetTokens: 4000 } },
+      //   },
+      // }),
     });
 
     console.log(
@@ -678,7 +683,7 @@ Analyze the request and decide: use targeted edits (type: "edit") for small chan
     console.error("Error generating code:", error);
     return new Response(
       JSON.stringify({
-        error: "Something went wrong while trying to reach OpenAI APIs.",
+        error: "Something went wrong while trying to reach the Anthropic API.",
       }),
       { status: 500, headers: { "Content-Type": "application/json" } },
     );

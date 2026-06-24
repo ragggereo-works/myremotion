@@ -19,6 +19,31 @@ import {
   FullShort,
   FULL_SHORT_DURATION,
 } from "./projects/worldcup-explainer/football_rules/FullShort";
+import {
+  Scene01 as WatchScene01,
+  SCENE01_DURATION as WATCH_SCENE01_DURATION,
+} from "./projects/worldcup-explainer/who_to_watch/Scene01";
+import {
+  Scene02 as WatchScene02,
+  SCENE02_DURATION as WATCH_SCENE02_DURATION,
+} from "./projects/worldcup-explainer/who_to_watch/Scene02";
+import {
+  Scene03 as WatchScene03,
+  SCENE03_DURATION as WATCH_SCENE03_DURATION,
+} from "./projects/worldcup-explainer/who_to_watch/Scene03";
+import {
+  Scene04 as WatchScene04,
+  SCENE04_DURATION as WATCH_SCENE04_DURATION,
+} from "./projects/worldcup-explainer/who_to_watch/Scene04";
+
+// who_to_watch flagship (vertical 1080x1920) — Watch-SceneNN + WatchFull.
+// Durations from generate-vo.mjs: ceil((vo seconds + 0.3) * 30); final +0.8.
+const WATCH_SCENES = [
+  { id: "Watch-Scene01", component: WatchScene01, durationInFrames: WATCH_SCENE01_DURATION },
+  { id: "Watch-Scene02", component: WatchScene02, durationInFrames: WATCH_SCENE02_DURATION },
+  { id: "Watch-Scene03", component: WatchScene03, durationInFrames: WATCH_SCENE03_DURATION },
+  { id: "Watch-Scene04", component: WatchScene04, durationInFrames: WATCH_SCENE04_DURATION },
+] as const;
 
 const SHORT_SCENES = [
   { id: "Short-Scene01", component: Scene01, durationInFrames: 309 },
@@ -67,6 +92,19 @@ export const RemotionRoot: React.FC = () => {
           height={SHORT_HEIGHT}
         />
         {RULES_SCENES.map((s) => (
+          <Composition
+            key={s.id}
+            id={s.id}
+            component={s.component}
+            durationInFrames={s.durationInFrames}
+            fps={FPS}
+            width={SHORT_WIDTH}
+            height={SHORT_HEIGHT}
+          />
+        ))}
+      </Folder>
+      <Folder name="who-to-watch">
+        {WATCH_SCENES.map((s) => (
           <Composition
             key={s.id}
             id={s.id}

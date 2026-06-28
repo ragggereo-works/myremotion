@@ -1,0 +1,359 @@
+[
+  {
+    "text": "Now,",
+    "startMs": 240,
+    "endMs": 400,
+    "timestampMs": 320,
+    "confidence": null
+  },
+  {
+    "text": "let's",
+    "startMs": 460,
+    "endMs": 681,
+    "timestampMs": 570,
+    "confidence": null
+  },
+  {
+    "text": "remember",
+    "startMs": 721,
+    "endMs": 1041,
+    "timestampMs": 881,
+    "confidence": null
+  },
+  {
+    "text": "three",
+    "startMs": 1101,
+    "endMs": 1361,
+    "timestampMs": 1231,
+    "confidence": null
+  },
+  {
+    "text": "words.",
+    "startMs": 1421,
+    "endMs": 1802,
+    "timestampMs": 1612,
+    "confidence": null
+  },
+  {
+    "text": "Kind.",
+    "startMs": 3003,
+    "endMs": 3504,
+    "timestampMs": 3254,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 4244,
+    "endMs": 4364,
+    "timestampMs": 4304,
+    "confidence": null
+  },
+  {
+    "text": "lion",
+    "startMs": 4425,
+    "endMs": 4765,
+    "timestampMs": 4595,
+    "confidence": null
+  },
+  {
+    "text": "was",
+    "startMs": 4805,
+    "endMs": 4965,
+    "timestampMs": 4885,
+    "confidence": null
+  },
+  {
+    "text": "kind.",
+    "startMs": 5045,
+    "endMs": 5526,
+    "timestampMs": 5286,
+    "confidence": null
+  },
+  {
+    "text": "Kind",
+    "startMs": 6086,
+    "endMs": 6467,
+    "timestampMs": 6276,
+    "confidence": null
+  },
+  {
+    "text": "means",
+    "startMs": 6567,
+    "endMs": 6887,
+    "timestampMs": 6727,
+    "confidence": null
+  },
+  {
+    "text": "good",
+    "startMs": 7007,
+    "endMs": 7308,
+    "timestampMs": 7158,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 7428,
+    "endMs": 7528,
+    "timestampMs": 7478,
+    "confidence": null
+  },
+  {
+    "text": "gentle",
+    "startMs": 7608,
+    "endMs": 7988,
+    "timestampMs": 7798,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 8048,
+    "endMs": 8128,
+    "timestampMs": 8088,
+    "confidence": null
+  },
+  {
+    "text": "others.",
+    "startMs": 8248,
+    "endMs": 8589,
+    "timestampMs": 8418,
+    "confidence": null
+  },
+  {
+    "text": "Help.",
+    "startMs": 9890,
+    "endMs": 10231,
+    "timestampMs": 10060,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 11011,
+    "endMs": 11111,
+    "timestampMs": 11061,
+    "confidence": null
+  },
+  {
+    "text": "mouse",
+    "startMs": 11151,
+    "endMs": 11432,
+    "timestampMs": 11292,
+    "confidence": null
+  },
+  {
+    "text": "wanted",
+    "startMs": 11532,
+    "endMs": 11872,
+    "timestampMs": 11702,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 11912,
+    "endMs": 11992,
+    "timestampMs": 11952,
+    "confidence": null
+  },
+  {
+    "text": "help.",
+    "startMs": 12052,
+    "endMs": 12313,
+    "timestampMs": 12182,
+    "confidence": null
+  },
+  {
+    "text": "To",
+    "startMs": 12833,
+    "endMs": 12953,
+    "timestampMs": 12893,
+    "confidence": null
+  },
+  {
+    "text": "help",
+    "startMs": 13013,
+    "endMs": 13274,
+    "timestampMs": 13144,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 13394,
+    "endMs": 13474,
+    "timestampMs": 13434,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 13514,
+    "endMs": 13614,
+    "timestampMs": 13564,
+    "confidence": null
+  },
+  {
+    "text": "do",
+    "startMs": 13674,
+    "endMs": 13834,
+    "timestampMs": 13754,
+    "confidence": null
+  },
+  {
+    "text": "something",
+    "startMs": 13914,
+    "endMs": 14295,
+    "timestampMs": 14104,
+    "confidence": null
+  },
+  {
+    "text": "good",
+    "startMs": 14375,
+    "endMs": 14655,
+    "timestampMs": 14515,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 14735,
+    "endMs": 14895,
+    "timestampMs": 14815,
+    "confidence": null
+  },
+  {
+    "text": "someone.",
+    "startMs": 14975,
+    "endMs": 15456,
+    "timestampMs": 15216,
+    "confidence": null
+  },
+  {
+    "text": "Friend.",
+    "startMs": 16677,
+    "endMs": 17098,
+    "timestampMs": 16888,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 17878,
+    "endMs": 17979,
+    "timestampMs": 17928,
+    "confidence": null
+  },
+  {
+    "text": "lion",
+    "startMs": 18039,
+    "endMs": 18419,
+    "timestampMs": 18229,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 18499,
+    "endMs": 18599,
+    "timestampMs": 18549,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 18639,
+    "endMs": 18719,
+    "timestampMs": 18679,
+    "confidence": null
+  },
+  {
+    "text": "mouse",
+    "startMs": 18759,
+    "endMs": 19060,
+    "timestampMs": 18910,
+    "confidence": null
+  },
+  {
+    "text": "became",
+    "startMs": 19140,
+    "endMs": 19460,
+    "timestampMs": 19300,
+    "confidence": null
+  },
+  {
+    "text": "friends.",
+    "startMs": 19580,
+    "endMs": 20041,
+    "timestampMs": 19810,
+    "confidence": null
+  },
+  {
+    "text": "A",
+    "startMs": 20641,
+    "endMs": 20681,
+    "timestampMs": 20661,
+    "confidence": null
+  },
+  {
+    "text": "friend",
+    "startMs": 20741,
+    "endMs": 21042,
+    "timestampMs": 20892,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 21142,
+    "endMs": 21202,
+    "timestampMs": 21172,
+    "confidence": null
+  },
+  {
+    "text": "someone",
+    "startMs": 21262,
+    "endMs": 21542,
+    "timestampMs": 21402,
+    "confidence": null
+  },
+  {
+    "text": "who",
+    "startMs": 21582,
+    "endMs": 21702,
+    "timestampMs": 21642,
+    "confidence": null
+  },
+  {
+    "text": "helps",
+    "startMs": 21782,
+    "endMs": 22043,
+    "timestampMs": 21912,
+    "confidence": null
+  },
+  {
+    "text": "you,",
+    "startMs": 22103,
+    "endMs": 22283,
+    "timestampMs": 22193,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 22423,
+    "endMs": 22523,
+    "timestampMs": 22473,
+    "confidence": null
+  },
+  {
+    "text": "cares",
+    "startMs": 22583,
+    "endMs": 22884,
+    "timestampMs": 22734,
+    "confidence": null
+  },
+  {
+    "text": "about",
+    "startMs": 22944,
+    "endMs": 23184,
+    "timestampMs": 23064,
+    "confidence": null
+  },
+  {
+    "text": "you.",
+    "startMs": 23224,
+    "endMs": 23344,
+    "timestampMs": 23284,
+    "confidence": null
+  }
+]

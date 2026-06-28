@@ -1,0 +1,191 @@
+[
+  {
+    "text": "Hello,",
+    "startMs": 60,
+    "endMs": 581,
+    "timestampMs": 320,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 921,
+    "endMs": 1061,
+    "timestampMs": 991,
+    "confidence": null
+  },
+  {
+    "text": "welcome.",
+    "startMs": 1121,
+    "endMs": 1702,
+    "timestampMs": 1412,
+    "confidence": null
+  },
+  {
+    "text": "Today,",
+    "startMs": 2683,
+    "endMs": 3204,
+    "timestampMs": 2944,
+    "confidence": null
+  },
+  {
+    "text": "we",
+    "startMs": 3384,
+    "endMs": 3544,
+    "timestampMs": 3464,
+    "confidence": null
+  },
+  {
+    "text": "learn",
+    "startMs": 3584,
+    "endMs": 3864,
+    "timestampMs": 3724,
+    "confidence": null
+  },
+  {
+    "text": "English",
+    "startMs": 4004,
+    "endMs": 4465,
+    "timestampMs": 4234,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 4525,
+    "endMs": 4685,
+    "timestampMs": 4605,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 4745,
+    "endMs": 4785,
+    "timestampMs": 4765,
+    "confidence": null
+  },
+  {
+    "text": "short",
+    "startMs": 4865,
+    "endMs": 5166,
+    "timestampMs": 5016,
+    "confidence": null
+  },
+  {
+    "text": "story.",
+    "startMs": 5286,
+    "endMs": 5887,
+    "timestampMs": 5586,
+    "confidence": null
+  },
+  {
+    "text": "It",
+    "startMs": 5907,
+    "endMs": 5947,
+    "timestampMs": 5927,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 7108,
+    "endMs": 7208,
+    "timestampMs": 7158,
+    "confidence": null
+  },
+  {
+    "text": "called...",
+    "startMs": 7268,
+    "endMs": 7749,
+    "timestampMs": 7508,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 8670,
+    "endMs": 8810,
+    "timestampMs": 8740,
+    "confidence": null
+  },
+  {
+    "text": "Lion",
+    "startMs": 8910,
+    "endMs": 9390,
+    "timestampMs": 9150,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 9551,
+    "endMs": 9671,
+    "timestampMs": 9611,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 9731,
+    "endMs": 9831,
+    "timestampMs": 9781,
+    "confidence": null
+  },
+  {
+    "text": "Mouse.",
+    "startMs": 9911,
+    "endMs": 10352,
+    "timestampMs": 10132,
+    "confidence": null
+  },
+  {
+    "text": "Listen,",
+    "startMs": 11473,
+    "endMs": 11973,
+    "timestampMs": 11723,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 12274,
+    "endMs": 12414,
+    "timestampMs": 12344,
+    "confidence": null
+  },
+  {
+    "text": "read",
+    "startMs": 12494,
+    "endMs": 12734,
+    "timestampMs": 12614,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 12794,
+    "endMs": 12974,
+    "timestampMs": 12884,
+    "confidence": null
+  },
+  {
+    "text": "me.",
+    "startMs": 13055,
+    "endMs": 13295,
+    "timestampMs": 13175,
+    "confidence": null
+  },
+  {
+    "text": "Take",
+    "startMs": 14236,
+    "endMs": 14456,
+    "timestampMs": 14346,
+    "confidence": null
+  },
+  {
+    "text": "your",
+    "startMs": 14476,
+    "endMs": 14656,
+    "timestampMs": 14566,
+    "confidence": null
+  },
+  {
+    "text": "time.",
+    "startMs": 14716,
+    "endMs": 15117,
+    "timestampMs": 14916,
+    "confidence": null
+  }
+]

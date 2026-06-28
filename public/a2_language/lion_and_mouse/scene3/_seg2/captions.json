@@ -1,0 +1,121 @@
+[
+  {
+    "text": "He",
+    "startMs": 80,
+    "endMs": 221,
+    "timestampMs": 150,
+    "confidence": null
+  },
+  {
+    "text": "put",
+    "startMs": 281,
+    "endMs": 482,
+    "timestampMs": 382,
+    "confidence": null
+  },
+  {
+    "text": "his",
+    "startMs": 522,
+    "endMs": 662,
+    "timestampMs": 592,
+    "confidence": null
+  },
+  {
+    "text": "big",
+    "startMs": 763,
+    "endMs": 1004,
+    "timestampMs": 884,
+    "confidence": null
+  },
+  {
+    "text": "paw",
+    "startMs": 1104,
+    "endMs": 1505,
+    "timestampMs": 1304,
+    "confidence": null
+  },
+  {
+    "text": "on",
+    "startMs": 1626,
+    "endMs": 1706,
+    "timestampMs": 1666,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 1766,
+    "endMs": 1867,
+    "timestampMs": 1816,
+    "confidence": null
+  },
+  {
+    "text": "mouse.",
+    "startMs": 1927,
+    "endMs": 2348,
+    "timestampMs": 2138,
+    "confidence": null
+  },
+  {
+    "text": "\"I",
+    "startMs": 2368,
+    "endMs": 3753,
+    "timestampMs": 3060,
+    "confidence": null
+  },
+  {
+    "text": "am",
+    "startMs": 3834,
+    "endMs": 3934,
+    "timestampMs": 3884,
+    "confidence": null
+  },
+  {
+    "text": "going",
+    "startMs": 4014,
+    "endMs": 4295,
+    "timestampMs": 4154,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 4375,
+    "endMs": 4456,
+    "timestampMs": 4416,
+    "confidence": null
+  },
+  {
+    "text": "eat",
+    "startMs": 4616,
+    "endMs": 4857,
+    "timestampMs": 4736,
+    "confidence": null
+  },
+  {
+    "text": "you!\"",
+    "startMs": 4917,
+    "endMs": 5178,
+    "timestampMs": 5048,
+    "confidence": null
+  },
+  {
+    "text": "said",
+    "startMs": 5901,
+    "endMs": 6122,
+    "timestampMs": 6012,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 6182,
+    "endMs": 6302,
+    "timestampMs": 6242,
+    "confidence": null
+  },
+  {
+    "text": "lion.",
+    "startMs": 6362,
+    "endMs": 6764,
+    "timestampMs": 6563,
+    "confidence": null
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "text": "He",
+    "startMs": 60,
+    "endMs": 240,
+    "timestampMs": 150,
+    "confidence": null
+  },
+  {
+    "text": "bit,",
+    "startMs": 360,
+    "endMs": 680,
+    "timestampMs": 520,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 961,
+    "endMs": 1081,
+    "timestampMs": 1021,
+    "confidence": null
+  },
+  {
+    "text": "bit,",
+    "startMs": 1201,
+    "endMs": 1501,
+    "timestampMs": 1351,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 1701,
+    "endMs": 1841,
+    "timestampMs": 1771,
+    "confidence": null
+  },
+  {
+    "text": "bit.",
+    "startMs": 1961,
+    "endMs": 2282,
+    "timestampMs": 2122,
+    "confidence": null
+  },
+  {
+    "text": "Slowly,",
+    "startMs": 3202,
+    "endMs": 3803,
+    "timestampMs": 3502,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 4323,
+    "endMs": 4443,
+    "timestampMs": 4383,
+    "confidence": null
+  },
+  {
+    "text": "net",
+    "startMs": 4543,
+    "endMs": 4823,
+    "timestampMs": 4683,
+    "confidence": null
+  },
+  {
+    "text": "broke.",
+    "startMs": 4943,
+    "endMs": 5364,
+    "timestampMs": 5154,
+    "confidence": null
+  },
+  {
+    "text": "At",
+    "startMs": 6605,
+    "endMs": 6705,
+    "timestampMs": 6655,
+    "confidence": null
+  },
+  {
+    "text": "last,",
+    "startMs": 6825,
+    "endMs": 7405,
+    "timestampMs": 7115,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 7765,
+    "endMs": 7905,
+    "timestampMs": 7835,
+    "confidence": null
+  },
+  {
+    "text": "lion",
+    "startMs": 8006,
+    "endMs": 8446,
+    "timestampMs": 8226,
+    "confidence": null
+  },
+  {
+    "text": "was",
+    "startMs": 8506,
+    "endMs": 8686,
+    "timestampMs": 8596,
+    "confidence": null
+  },
+  {
+    "text": "free!",
+    "startMs": 8806,
+    "endMs": 9046,
+    "timestampMs": 8926,
+    "confidence": null
+  }
+]

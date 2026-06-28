@@ -1,0 +1,170 @@
+[
+  {
+    "text": "The",
+    "startMs": 100,
+    "endMs": 240,
+    "timestampMs": 170,
+    "confidence": null
+  },
+  {
+    "text": "lion",
+    "startMs": 321,
+    "endMs": 741,
+    "timestampMs": 531,
+    "confidence": null
+  },
+  {
+    "text": "could",
+    "startMs": 821,
+    "endMs": 1042,
+    "timestampMs": 932,
+    "confidence": null
+  },
+  {
+    "text": "not",
+    "startMs": 1102,
+    "endMs": 1342,
+    "timestampMs": 1222,
+    "confidence": null
+  },
+  {
+    "text": "move.",
+    "startMs": 1442,
+    "endMs": 1923,
+    "timestampMs": 1682,
+    "confidence": null
+  },
+  {
+    "text": "He",
+    "startMs": 2845,
+    "endMs": 3005,
+    "timestampMs": 2925,
+    "confidence": null
+  },
+  {
+    "text": "pulled",
+    "startMs": 3085,
+    "endMs": 3506,
+    "timestampMs": 3296,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 3586,
+    "endMs": 3686,
+    "timestampMs": 3636,
+    "confidence": null
+  },
+  {
+    "text": "pulled,",
+    "startMs": 3766,
+    "endMs": 4207,
+    "timestampMs": 3986,
+    "confidence": null
+  },
+  {
+    "text": "but",
+    "startMs": 4287,
+    "endMs": 4448,
+    "timestampMs": 4368,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 4488,
+    "endMs": 4608,
+    "timestampMs": 4548,
+    "confidence": null
+  },
+  {
+    "text": "net",
+    "startMs": 4688,
+    "endMs": 4928,
+    "timestampMs": 4808,
+    "confidence": null
+  },
+  {
+    "text": "was",
+    "startMs": 5009,
+    "endMs": 5149,
+    "timestampMs": 5079,
+    "confidence": null
+  },
+  {
+    "text": "strong.",
+    "startMs": 5249,
+    "endMs": 5850,
+    "timestampMs": 5550,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 5870,
+    "endMs": 7172,
+    "timestampMs": 6521,
+    "confidence": null
+  },
+  {
+    "text": "lion",
+    "startMs": 7252,
+    "endMs": 7713,
+    "timestampMs": 7482,
+    "confidence": null
+  },
+  {
+    "text": "was",
+    "startMs": 7793,
+    "endMs": 7994,
+    "timestampMs": 7894,
+    "confidence": null
+  },
+  {
+    "text": "afraid.",
+    "startMs": 8094,
+    "endMs": 8735,
+    "timestampMs": 8414,
+    "confidence": null
+  },
+  {
+    "text": "He",
+    "startMs": 9737,
+    "endMs": 9857,
+    "timestampMs": 9797,
+    "confidence": null
+  },
+  {
+    "text": "gave",
+    "startMs": 9897,
+    "endMs": 10157,
+    "timestampMs": 10027,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 10218,
+    "endMs": 10258,
+    "timestampMs": 10238,
+    "confidence": null
+  },
+  {
+    "text": "big,",
+    "startMs": 10338,
+    "endMs": 10658,
+    "timestampMs": 10498,
+    "confidence": null
+  },
+  {
+    "text": "loud",
+    "startMs": 10758,
+    "endMs": 11159,
+    "timestampMs": 10958,
+    "confidence": null
+  },
+  {
+    "text": "roar.",
+    "startMs": 11279,
+    "endMs": 11620,
+    "timestampMs": 11450,
+    "confidence": null
+  }
+]

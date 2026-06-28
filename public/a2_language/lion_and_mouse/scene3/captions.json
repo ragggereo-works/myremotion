@@ -1,0 +1,170 @@
+[
+  {
+    "text": "The",
+    "startMs": 120,
+    "endMs": 241,
+    "timestampMs": 180,
+    "confidence": null
+  },
+  {
+    "text": "lion",
+    "startMs": 321,
+    "endMs": 762,
+    "timestampMs": 542,
+    "confidence": null
+  },
+  {
+    "text": "woke",
+    "startMs": 842,
+    "endMs": 1122,
+    "timestampMs": 982,
+    "confidence": null
+  },
+  {
+    "text": "up.",
+    "startMs": 1323,
+    "endMs": 1423,
+    "timestampMs": 1373,
+    "confidence": null
+  },
+  {
+    "text": "He",
+    "startMs": 2365,
+    "endMs": 2505,
+    "timestampMs": 2435,
+    "confidence": null
+  },
+  {
+    "text": "was",
+    "startMs": 2545,
+    "endMs": 2706,
+    "timestampMs": 2626,
+    "confidence": null
+  },
+  {
+    "text": "angry.",
+    "startMs": 2866,
+    "endMs": 3307,
+    "timestampMs": 3086,
+    "confidence": null
+  },
+  {
+    "text": "He",
+    "startMs": 4269,
+    "endMs": 4409,
+    "timestampMs": 4339,
+    "confidence": null
+  },
+  {
+    "text": "put",
+    "startMs": 4490,
+    "endMs": 4670,
+    "timestampMs": 4580,
+    "confidence": null
+  },
+  {
+    "text": "his",
+    "startMs": 4710,
+    "endMs": 4850,
+    "timestampMs": 4780,
+    "confidence": null
+  },
+  {
+    "text": "big",
+    "startMs": 4951,
+    "endMs": 5191,
+    "timestampMs": 5071,
+    "confidence": null
+  },
+  {
+    "text": "paw",
+    "startMs": 5311,
+    "endMs": 5692,
+    "timestampMs": 5502,
+    "confidence": null
+  },
+  {
+    "text": "on",
+    "startMs": 5832,
+    "endMs": 5913,
+    "timestampMs": 5872,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 5973,
+    "endMs": 6073,
+    "timestampMs": 6023,
+    "confidence": null
+  },
+  {
+    "text": "mouse.",
+    "startMs": 6133,
+    "endMs": 6554,
+    "timestampMs": 6344,
+    "confidence": null
+  },
+  {
+    "text": "\"I",
+    "startMs": 6574,
+    "endMs": 7957,
+    "timestampMs": 7266,
+    "confidence": null
+  },
+  {
+    "text": "am",
+    "startMs": 8037,
+    "endMs": 8137,
+    "timestampMs": 8087,
+    "confidence": null
+  },
+  {
+    "text": "going",
+    "startMs": 8217,
+    "endMs": 8498,
+    "timestampMs": 8358,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 8558,
+    "endMs": 8658,
+    "timestampMs": 8608,
+    "confidence": null
+  },
+  {
+    "text": "eat",
+    "startMs": 8819,
+    "endMs": 9059,
+    "timestampMs": 8939,
+    "confidence": null
+  },
+  {
+    "text": "you!\"",
+    "startMs": 9119,
+    "endMs": 9380,
+    "timestampMs": 9250,
+    "confidence": null
+  },
+  {
+    "text": "said",
+    "startMs": 10081,
+    "endMs": 10302,
+    "timestampMs": 10192,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 10382,
+    "endMs": 10482,
+    "timestampMs": 10432,
+    "confidence": null
+  },
+  {
+    "text": "lion.\"",
+    "startMs": 10542,
+    "endMs": 11003,
+    "timestampMs": 10772,
+    "confidence": null
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "text": "The",
+    "startMs": 100,
+    "endMs": 241,
+    "timestampMs": 170,
+    "confidence": null
+  },
+  {
+    "text": "mouse",
+    "startMs": 301,
+    "endMs": 702,
+    "timestampMs": 502,
+    "confidence": null
+  },
+  {
+    "text": "was",
+    "startMs": 802,
+    "endMs": 1002,
+    "timestampMs": 902,
+    "confidence": null
+  },
+  {
+    "text": "happy.",
+    "startMs": 1122,
+    "endMs": 1684,
+    "timestampMs": 1403,
+    "confidence": null
+  },
+  {
+    "text": "\"Thank",
+    "startMs": 1704,
+    "endMs": 3628,
+    "timestampMs": 2666,
+    "confidence": null
+  },
+  {
+    "text": "you!",
+    "startMs": 3648,
+    "endMs": 3728,
+    "timestampMs": 3688,
+    "confidence": null
+  },
+  {
+    "text": "Thank",
+    "startMs": 4209,
+    "endMs": 4911,
+    "timestampMs": 4560,
+    "confidence": null
+  },
+  {
+    "text": "you!",
+    "startMs": 4931,
+    "endMs": 5011,
+    "timestampMs": 4971,
+    "confidence": null
+  },
+  {
+    "text": "I",
+    "startMs": 5632,
+    "endMs": 5693,
+    "timestampMs": 5662,
+    "confidence": null
+  },
+  {
+    "text": "will",
+    "startMs": 5753,
+    "endMs": 5993,
+    "timestampMs": 5873,
+    "confidence": null
+  },
+  {
+    "text": "not",
+    "startMs": 6093,
+    "endMs": 6314,
+    "timestampMs": 6204,
+    "confidence": null
+  },
+  {
+    "text": "forget",
+    "startMs": 6414,
+    "endMs": 6855,
+    "timestampMs": 6634,
+    "confidence": null
+  },
+  {
+    "text": "you,\"",
+    "startMs": 6935,
+    "endMs": 7176,
+    "timestampMs": 7056,
+    "confidence": null
+  },
+  {
+    "text": "he",
+    "startMs": 7717,
+    "endMs": 7837,
+    "timestampMs": 7777,
+    "confidence": null
+  },
+  {
+    "text": "said.",
+    "startMs": 7958,
+    "endMs": 8258,
+    "timestampMs": 8108,
+    "confidence": null
+  },
+  {
+    "text": "And",
+    "startMs": 8278,
+    "endMs": 8338,
+    "timestampMs": 8308,
+    "confidence": null
+  },
+  {
+    "text": "he",
+    "startMs": 8358,
+    "endMs": 8399,
+    "timestampMs": 8378,
+    "confidence": null
+  },
+  {
+    "text": "ran",
+    "startMs": 9421,
+    "endMs": 9581,
+    "timestampMs": 9501,
+    "confidence": null
+  },
+  {
+    "text": "away.",
+    "startMs": 9601,
+    "endMs": 9721,
+    "timestampMs": 9661,
+    "confidence": null
+  }
+]

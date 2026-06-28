@@ -4,7 +4,29 @@ import { DynamicComp } from "./DynamicComp";
 import { MyAnimation } from "./MyAnimation";
 import { Intro } from "./Intro";
 import { CountriesNotClubs } from "./CountriesNotClubs";
-import { FPS, SHORT_HEIGHT, SHORT_WIDTH } from "../brand";
+import { FPS, SHORT_HEIGHT, SHORT_WIDTH, VIDEO_WIDTH, VIDEO_HEIGHT } from "../brand";
+import { Scene as A2Scene } from "./projects/a2_language/Scene";
+import { TwoSegmentScene } from "./projects/a2_language/TwoSegmentScene";
+import {
+  LION_AND_MOUSE_SCENES,
+  LION_AND_MOUSE_TWO_SEGMENT,
+} from "./projects/a2_language/lion_and_mouse/scenes";
+import {
+  Scene14 as A2Scene14,
+  SCENE14_DURATION,
+} from "./projects/a2_language/lion_and_mouse/Scene14";
+import {
+  Scene15 as A2Scene15,
+  SCENE15_DURATION,
+} from "./projects/a2_language/lion_and_mouse/Scene15";
+import {
+  Scene15Ext as A2Scene15Ext,
+  SCENE15EXT_DURATION,
+} from "./projects/a2_language/lion_and_mouse/Scene15Ext";
+import {
+  Thumbnail as A2Thumbnail,
+  thumbnailDefaultProps,
+} from "./projects/a2_language/Thumbnail";
 import { Scene01 } from "./projects/worldcup-explainer/Estadio_Azteca/shorts/Scene01";
 import { Scene02 } from "./projects/worldcup-explainer/Estadio_Azteca/shorts/Scene02";
 import { Scene03 } from "./projects/worldcup-explainer/Estadio_Azteca/shorts/Scene03";
@@ -69,6 +91,89 @@ export const MyAnimation = () => <AbsoluteFill style={{ backgroundColor: "#000" 
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Folder name="a2-lion-and-mouse">
+        {LION_AND_MOUSE_SCENES.map((s) => (
+          <Composition
+            key={s.id}
+            id={s.id}
+            component={A2Scene}
+            durationInFrames={s.durationInFrames}
+            fps={FPS}
+            width={VIDEO_WIDTH}
+            height={VIDEO_HEIGHT}
+            defaultProps={{
+              audio: s.audio,
+              clipA: s.clipA,
+              clipB: s.clipB,
+              captions: s.captions,
+              durationInFrames: s.durationInFrames,
+              splitFrame: s.splitFrame,
+              brollVolume: s.brollVolume,
+              clipARate: s.clipARate,
+              clipBRate: s.clipBRate,
+              audioLeadFrames: s.audioLeadFrames,
+              captionFrames: s.captionFrames,
+            }}
+          />
+        ))}
+        <Composition
+          id="A2-Lion-Scene14"
+          component={A2Scene14}
+          durationInFrames={SCENE14_DURATION}
+          fps={FPS}
+          width={VIDEO_WIDTH}
+          height={VIDEO_HEIGHT}
+        />
+        <Composition
+          id="A2-Lion-Scene15"
+          component={A2Scene15}
+          durationInFrames={SCENE15_DURATION}
+          fps={FPS}
+          width={VIDEO_WIDTH}
+          height={VIDEO_HEIGHT}
+        />
+        <Composition
+          id="A2-Lion-Scene15-Ext"
+          component={A2Scene15Ext}
+          durationInFrames={SCENE15EXT_DURATION}
+          fps={FPS}
+          width={VIDEO_WIDTH}
+          height={VIDEO_HEIGHT}
+        />
+        <Composition
+          id="A2-Thumbnail"
+          component={A2Thumbnail}
+          durationInFrames={1}
+          fps={FPS}
+          width={1280}
+          height={720}
+          defaultProps={thumbnailDefaultProps}
+        />
+        {LION_AND_MOUSE_TWO_SEGMENT.map((s) => (
+          <Composition
+            key={s.id}
+            id={s.id}
+            component={TwoSegmentScene}
+            durationInFrames={s.durationInFrames}
+            fps={FPS}
+            width={VIDEO_WIDTH}
+            height={VIDEO_HEIGHT}
+            defaultProps={{
+              clipA: s.clipA,
+              clipB: s.clipB,
+              clipAFrames: s.clipAFrames,
+              clipBFrames: s.clipBFrames,
+              seg1Audio: s.seg1Audio,
+              seg1Captions: s.seg1Captions,
+              seg2Audio: s.seg2Audio,
+              seg2Captions: s.seg2Captions,
+              seg2LeadFrames: s.seg2LeadFrames,
+              seg1Frames: s.seg1Frames,
+              seg2Frames: s.seg2Frames,
+            }}
+          />
+        ))}
+      </Folder>
       <Folder name="worldcup-explainer-shorts">
         {SHORT_SCENES.map((s) => (
           <Composition

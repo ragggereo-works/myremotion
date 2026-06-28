@@ -1,0 +1,163 @@
+[
+  {
+    "text": "Do",
+    "startMs": 140,
+    "endMs": 340,
+    "timestampMs": 240,
+    "confidence": null
+  },
+  {
+    "text": "not",
+    "startMs": 420,
+    "endMs": 641,
+    "timestampMs": 530,
+    "confidence": null
+  },
+  {
+    "text": "worry,\"",
+    "startMs": 761,
+    "endMs": 1261,
+    "timestampMs": 1011,
+    "confidence": null
+  },
+  {
+    "text": "said",
+    "startMs": 1602,
+    "endMs": 1822,
+    "timestampMs": 1712,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 1882,
+    "endMs": 1982,
+    "timestampMs": 1932,
+    "confidence": null
+  },
+  {
+    "text": "mouse.",
+    "startMs": 2042,
+    "endMs": 2382,
+    "timestampMs": 2212,
+    "confidence": null
+  },
+  {
+    "text": "\"I",
+    "startMs": 2402,
+    "endMs": 3063,
+    "timestampMs": 2732,
+    "confidence": null
+  },
+  {
+    "text": "will",
+    "startMs": 3103,
+    "endMs": 3343,
+    "timestampMs": 3223,
+    "confidence": null
+  },
+  {
+    "text": "help",
+    "startMs": 3423,
+    "endMs": 3704,
+    "timestampMs": 3564,
+    "confidence": null
+  },
+  {
+    "text": "you.\"",
+    "startMs": 3784,
+    "endMs": 4024,
+    "timestampMs": 3904,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 5245,
+    "endMs": 5385,
+    "timestampMs": 5315,
+    "confidence": null
+  },
+  {
+    "text": "mouse",
+    "startMs": 5445,
+    "endMs": 5806,
+    "timestampMs": 5626,
+    "confidence": null
+  },
+  {
+    "text": "started",
+    "startMs": 5886,
+    "endMs": 6326,
+    "timestampMs": 6106,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 6406,
+    "endMs": 6507,
+    "timestampMs": 6456,
+    "confidence": null
+  },
+  {
+    "text": "bite",
+    "startMs": 6567,
+    "endMs": 6847,
+    "timestampMs": 6707,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 6927,
+    "endMs": 7047,
+    "timestampMs": 6987,
+    "confidence": null
+  },
+  {
+    "text": "net.",
+    "startMs": 7127,
+    "endMs": 7447,
+    "timestampMs": 7287,
+    "confidence": null
+  },
+  {
+    "text": "He",
+    "startMs": 8408,
+    "endMs": 8549,
+    "timestampMs": 8478,
+    "confidence": null
+  },
+  {
+    "text": "used",
+    "startMs": 8769,
+    "endMs": 9009,
+    "timestampMs": 8889,
+    "confidence": null
+  },
+  {
+    "text": "his",
+    "startMs": 9069,
+    "endMs": 9229,
+    "timestampMs": 9149,
+    "confidence": null
+  },
+  {
+    "text": "small,",
+    "startMs": 9349,
+    "endMs": 9810,
+    "timestampMs": 9580,
+    "confidence": null
+  },
+  {
+    "text": "sharp",
+    "startMs": 9950,
+    "endMs": 10310,
+    "timestampMs": 10130,
+    "confidence": null
+  },
+  {
+    "text": "teeth.",
+    "startMs": 10430,
+    "endMs": 10791,
+    "timestampMs": 10610,
+    "confidence": null
+  }
+]

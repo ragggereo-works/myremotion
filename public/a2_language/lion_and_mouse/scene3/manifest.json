@@ -1,0 +1,11 @@
+{
+  "audio": "scene03.mp3",
+  "clipA": "scene3A.mp4",
+  "clipB": "scene3B.mp4",
+  "durationInFrames": 355,
+  "splitFrame": 173,
+  "clipARate": 1.0,
+  "clipBRate": 1.0,
+  "audioDurationMs": 11424,
+  "source": "whisperx forced alignment (script.txt)"
+}

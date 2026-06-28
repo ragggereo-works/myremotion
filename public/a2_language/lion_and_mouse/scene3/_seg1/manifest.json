@@ -1,0 +1,11 @@
+{
+  "audio": "seg.mp3",
+  "clipA": null,
+  "clipB": null,
+  "durationInFrames": 117,
+  "splitFrame": 57,
+  "clipARate": 1.0,
+  "clipBRate": 1.0,
+  "audioDurationMs": 3487,
+  "source": "whisperx forced alignment (script.txt)"
+}

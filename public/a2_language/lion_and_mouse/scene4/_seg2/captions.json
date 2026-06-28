@@ -1,0 +1,79 @@
+[
+  {
+    "text": "One",
+    "startMs": 100,
+    "endMs": 261,
+    "timestampMs": 180,
+    "confidence": null
+  },
+  {
+    "text": "day,",
+    "startMs": 361,
+    "endMs": 702,
+    "timestampMs": 532,
+    "confidence": null
+  },
+  {
+    "text": "I",
+    "startMs": 722,
+    "endMs": 742,
+    "timestampMs": 732,
+    "confidence": null
+  },
+  {
+    "text": "can",
+    "startMs": 1083,
+    "endMs": 1264,
+    "timestampMs": 1174,
+    "confidence": null
+  },
+  {
+    "text": "help",
+    "startMs": 1324,
+    "endMs": 1565,
+    "timestampMs": 1444,
+    "confidence": null
+  },
+  {
+    "text": "you.",
+    "startMs": 1625,
+    "endMs": 1826,
+    "timestampMs": 1726,
+    "confidence": null
+  },
+  {
+    "text": "I",
+    "startMs": 1846,
+    "endMs": 1866,
+    "timestampMs": 1856,
+    "confidence": null
+  },
+  {
+    "text": "can",
+    "startMs": 2548,
+    "endMs": 2708,
+    "timestampMs": 2628,
+    "confidence": null
+  },
+  {
+    "text": "be",
+    "startMs": 2748,
+    "endMs": 2889,
+    "timestampMs": 2818,
+    "confidence": null
+  },
+  {
+    "text": "your",
+    "startMs": 2929,
+    "endMs": 3110,
+    "timestampMs": 3020,
+    "confidence": null
+  },
+  {
+    "text": "friend.",
+    "startMs": 3190,
+    "endMs": 3571,
+    "timestampMs": 3380,
+    "confidence": null
+  }
+]

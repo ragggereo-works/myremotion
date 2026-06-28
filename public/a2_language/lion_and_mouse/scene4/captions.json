@@ -1,0 +1,177 @@
+[
+  {
+    "text": "Please,",
+    "startMs": 220,
+    "endMs": 721,
+    "timestampMs": 470,
+    "confidence": null
+  },
+  {
+    "text": "please",
+    "startMs": 1161,
+    "endMs": 1542,
+    "timestampMs": 1352,
+    "confidence": null
+  },
+  {
+    "text": "do",
+    "startMs": 1602,
+    "endMs": 1722,
+    "timestampMs": 1662,
+    "confidence": null
+  },
+  {
+    "text": "not",
+    "startMs": 1782,
+    "endMs": 1962,
+    "timestampMs": 1872,
+    "confidence": null
+  },
+  {
+    "text": "eat",
+    "startMs": 2042,
+    "endMs": 2222,
+    "timestampMs": 2132,
+    "confidence": null
+  },
+  {
+    "text": "me,\"",
+    "startMs": 2282,
+    "endMs": 2503,
+    "timestampMs": 2392,
+    "confidence": null
+  },
+  {
+    "text": "said",
+    "startMs": 2903,
+    "endMs": 3123,
+    "timestampMs": 3013,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 3183,
+    "endMs": 3283,
+    "timestampMs": 3233,
+    "confidence": null
+  },
+  {
+    "text": "little",
+    "startMs": 3323,
+    "endMs": 3584,
+    "timestampMs": 3454,
+    "confidence": null
+  },
+  {
+    "text": "mouse.",
+    "startMs": 3644,
+    "endMs": 4004,
+    "timestampMs": 3824,
+    "confidence": null
+  },
+  {
+    "text": "\"I",
+    "startMs": 4024,
+    "endMs": 5345,
+    "timestampMs": 4684,
+    "confidence": null
+  },
+  {
+    "text": "am",
+    "startMs": 5445,
+    "endMs": 5546,
+    "timestampMs": 5496,
+    "confidence": null
+  },
+  {
+    "text": "very",
+    "startMs": 5626,
+    "endMs": 5926,
+    "timestampMs": 5776,
+    "confidence": null
+  },
+  {
+    "text": "small.",
+    "startMs": 6046,
+    "endMs": 6547,
+    "timestampMs": 6296,
+    "confidence": null
+  },
+  {
+    "text": "One",
+    "startMs": 7367,
+    "endMs": 7528,
+    "timestampMs": 7448,
+    "confidence": null
+  },
+  {
+    "text": "day,",
+    "startMs": 7628,
+    "endMs": 7948,
+    "timestampMs": 7788,
+    "confidence": null
+  },
+  {
+    "text": "I",
+    "startMs": 7968,
+    "endMs": 7988,
+    "timestampMs": 7978,
+    "confidence": null
+  },
+  {
+    "text": "can",
+    "startMs": 8348,
+    "endMs": 8529,
+    "timestampMs": 8438,
+    "confidence": null
+  },
+  {
+    "text": "help",
+    "startMs": 8569,
+    "endMs": 8829,
+    "timestampMs": 8699,
+    "confidence": null
+  },
+  {
+    "text": "you.",
+    "startMs": 8889,
+    "endMs": 9089,
+    "timestampMs": 8989,
+    "confidence": null
+  },
+  {
+    "text": "I",
+    "startMs": 9109,
+    "endMs": 9129,
+    "timestampMs": 9119,
+    "confidence": null
+  },
+  {
+    "text": "can",
+    "startMs": 9810,
+    "endMs": 9970,
+    "timestampMs": 9890,
+    "confidence": null
+  },
+  {
+    "text": "be",
+    "startMs": 10010,
+    "endMs": 10130,
+    "timestampMs": 10070,
+    "confidence": null
+  },
+  {
+    "text": "your",
+    "startMs": 10170,
+    "endMs": 10370,
+    "timestampMs": 10270,
+    "confidence": null
+  },
+  {
+    "text": "friend.",
+    "startMs": 10430,
+    "endMs": 10811,
+    "timestampMs": 10620,
+    "confidence": null
+  }
+]

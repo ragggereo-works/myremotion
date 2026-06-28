@@ -1,0 +1,51 @@
+[
+  {
+    "text": "The",
+    "startMs": 121,
+    "endMs": 241,
+    "timestampMs": 181,
+    "confidence": null
+  },
+  {
+    "text": "lion",
+    "startMs": 321,
+    "endMs": 763,
+    "timestampMs": 542,
+    "confidence": null
+  },
+  {
+    "text": "woke",
+    "startMs": 844,
+    "endMs": 1125,
+    "timestampMs": 984,
+    "confidence": null
+  },
+  {
+    "text": "up.",
+    "startMs": 1326,
+    "endMs": 1446,
+    "timestampMs": 1386,
+    "confidence": null
+  },
+  {
+    "text": "He",
+    "startMs": 2370,
+    "endMs": 2511,
+    "timestampMs": 2440,
+    "confidence": null
+  },
+  {
+    "text": "was",
+    "startMs": 2551,
+    "endMs": 2712,
+    "timestampMs": 2632,
+    "confidence": null
+  },
+  {
+    "text": "angry.",
+    "startMs": 2873,
+    "endMs": 3295,
+    "timestampMs": 3084,
+    "confidence": null
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "text": "The",
+    "startMs": 240,
+    "endMs": 360,
+    "timestampMs": 300,
+    "confidence": null
+  },
+  {
+    "text": "lion",
+    "startMs": 420,
+    "endMs": 821,
+    "timestampMs": 620,
+    "confidence": null
+  },
+  {
+    "text": "laughed.",
+    "startMs": 881,
+    "endMs": 2883,
+    "timestampMs": 1882,
+    "confidence": null
+  },
+  {
+    "text": "\"You?",
+    "startMs": 2903,
+    "endMs": 3003,
+    "timestampMs": 2953,
+    "confidence": null
+  },
+  {
+    "text": "A",
+    "startMs": 3304,
+    "endMs": 3344,
+    "timestampMs": 3324,
+    "confidence": null
+  },
+  {
+    "text": "small",
+    "startMs": 3424,
+    "endMs": 3784,
+    "timestampMs": 3604,
+    "confidence": null
+  },
+  {
+    "text": "mouse?",
+    "startMs": 3864,
+    "endMs": 4325,
+    "timestampMs": 4094,
+    "confidence": null
+  },
+  {
+    "text": "Help",
+    "startMs": 4866,
+    "endMs": 5126,
+    "timestampMs": 4996,
+    "confidence": null
+  },
+  {
+    "text": "me?",
+    "startMs": 5186,
+    "endMs": 5386,
+    "timestampMs": 5286,
+    "confidence": null
+  },
+  {
+    "text": "That",
+    "startMs": 5807,
+    "endMs": 6047,
+    "timestampMs": 5927,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 6127,
+    "endMs": 6227,
+    "timestampMs": 6177,
+    "confidence": null
+  },
+  {
+    "text": "funny!\"",
+    "startMs": 6327,
+    "endMs": 6748,
+    "timestampMs": 6538,
+    "confidence": null
+  },
+  {
+    "text": "But",
+    "startMs": 8069,
+    "endMs": 8229,
+    "timestampMs": 8149,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 8289,
+    "endMs": 8410,
+    "timestampMs": 8350,
+    "confidence": null
+  },
+  {
+    "text": "lion",
+    "startMs": 8470,
+    "endMs": 8870,
+    "timestampMs": 8670,
+    "confidence": null
+  },
+  {
+    "text": "was",
+    "startMs": 8930,
+    "endMs": 9070,
+    "timestampMs": 9000,
+    "confidence": null
+  },
+  {
+    "text": "kind.",
+    "startMs": 9150,
+    "endMs": 9711,
+    "timestampMs": 9430,
+    "confidence": null
+  },
+  {
+    "text": "He",
+    "startMs": 10732,
+    "endMs": 10852,
+    "timestampMs": 10792,
+    "confidence": null
+  },
+  {
+    "text": "opened",
+    "startMs": 10992,
+    "endMs": 11313,
+    "timestampMs": 11152,
+    "confidence": null
+  },
+  {
+    "text": "his",
+    "startMs": 11373,
+    "endMs": 11493,
+    "timestampMs": 11433,
+    "confidence": null
+  },
+  {
+    "text": "paw.",
+    "startMs": 11573,
+    "endMs": 11994,
+    "timestampMs": 11784,
+    "confidence": null
+  },
+  {
+    "text": "\"Go,\"",
+    "startMs": 12014,
+    "endMs": 13555,
+    "timestampMs": 12784,
+    "confidence": null
+  },
+  {
+    "text": "he",
+    "startMs": 14256,
+    "endMs": 14356,
+    "timestampMs": 14306,
+    "confidence": null
+  },
+  {
+    "text": "said.",
+    "startMs": 14436,
+    "endMs": 14717,
+    "timestampMs": 14576,
+    "confidence": null
+  },
+  {
+    "text": "\"Go",
+    "startMs": 14737,
+    "endMs": 16038,
+    "timestampMs": 15388,
+    "confidence": null
+  },
+  {
+    "text": "home,",
+    "startMs": 16138,
+    "endMs": 16499,
+    "timestampMs": 16318,
+    "confidence": null
+  },
+  {
+    "text": "little",
+    "startMs": 16559,
+    "endMs": 16819,
+    "timestampMs": 16689,
+    "confidence": null
+  },
+  {
+    "text": "mouse.",
+    "startMs": 16899,
+    "endMs": 17260,
+    "timestampMs": 17080,
+    "confidence": null
+  }
+]

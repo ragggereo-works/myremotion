@@ -1,0 +1,100 @@
+[
+  {
+    "text": "Please,",
+    "startMs": 220,
+    "endMs": 702,
+    "timestampMs": 461,
+    "confidence": null
+  },
+  {
+    "text": "please",
+    "startMs": 1163,
+    "endMs": 1543,
+    "timestampMs": 1353,
+    "confidence": null
+  },
+  {
+    "text": "do",
+    "startMs": 1603,
+    "endMs": 1724,
+    "timestampMs": 1664,
+    "confidence": null
+  },
+  {
+    "text": "not",
+    "startMs": 1784,
+    "endMs": 1964,
+    "timestampMs": 1874,
+    "confidence": null
+  },
+  {
+    "text": "eat",
+    "startMs": 2044,
+    "endMs": 2225,
+    "timestampMs": 2134,
+    "confidence": null
+  },
+  {
+    "text": "me,\"",
+    "startMs": 2285,
+    "endMs": 2505,
+    "timestampMs": 2395,
+    "confidence": null
+  },
+  {
+    "text": "said",
+    "startMs": 2906,
+    "endMs": 3127,
+    "timestampMs": 3016,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 3187,
+    "endMs": 3287,
+    "timestampMs": 3237,
+    "confidence": null
+  },
+  {
+    "text": "little",
+    "startMs": 3327,
+    "endMs": 3588,
+    "timestampMs": 3458,
+    "confidence": null
+  },
+  {
+    "text": "mouse.",
+    "startMs": 3648,
+    "endMs": 4009,
+    "timestampMs": 3828,
+    "confidence": null
+  },
+  {
+    "text": "\"I",
+    "startMs": 4029,
+    "endMs": 5352,
+    "timestampMs": 4690,
+    "confidence": null
+  },
+  {
+    "text": "am",
+    "startMs": 5452,
+    "endMs": 5532,
+    "timestampMs": 5492,
+    "confidence": null
+  },
+  {
+    "text": "very",
+    "startMs": 5632,
+    "endMs": 5933,
+    "timestampMs": 5782,
+    "confidence": null
+  },
+  {
+    "text": "small.\"",
+    "startMs": 6053,
+    "endMs": 6514,
+    "timestampMs": 6284,
+    "confidence": null
+  }
+]

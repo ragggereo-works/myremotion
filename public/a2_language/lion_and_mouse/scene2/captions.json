@@ -1,0 +1,212 @@
+[
+  {
+    "text": "One",
+    "startMs": 120,
+    "endMs": 260,
+    "timestampMs": 190,
+    "confidence": null
+  },
+  {
+    "text": "hot",
+    "startMs": 361,
+    "endMs": 601,
+    "timestampMs": 481,
+    "confidence": null
+  },
+  {
+    "text": "day,",
+    "startMs": 701,
+    "endMs": 1042,
+    "timestampMs": 872,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 1543,
+    "endMs": 1583,
+    "timestampMs": 1563,
+    "confidence": null
+  },
+  {
+    "text": "big",
+    "startMs": 1663,
+    "endMs": 1923,
+    "timestampMs": 1793,
+    "confidence": null
+  },
+  {
+    "text": "lion",
+    "startMs": 2043,
+    "endMs": 2504,
+    "timestampMs": 2274,
+    "confidence": null
+  },
+  {
+    "text": "was",
+    "startMs": 2564,
+    "endMs": 2724,
+    "timestampMs": 2644,
+    "confidence": null
+  },
+  {
+    "text": "sleeping",
+    "startMs": 2805,
+    "endMs": 3325,
+    "timestampMs": 3065,
+    "confidence": null
+  },
+  {
+    "text": "under",
+    "startMs": 3426,
+    "endMs": 3686,
+    "timestampMs": 3556,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 3766,
+    "endMs": 3806,
+    "timestampMs": 3786,
+    "confidence": null
+  },
+  {
+    "text": "tree.",
+    "startMs": 3906,
+    "endMs": 4287,
+    "timestampMs": 4096,
+    "confidence": null
+  },
+  {
+    "text": "A",
+    "startMs": 4307,
+    "endMs": 4327,
+    "timestampMs": 4317,
+    "confidence": null
+  },
+  {
+    "text": "small",
+    "startMs": 5629,
+    "endMs": 6010,
+    "timestampMs": 5820,
+    "confidence": null
+  },
+  {
+    "text": "mouse",
+    "startMs": 6130,
+    "endMs": 6531,
+    "timestampMs": 6330,
+    "confidence": null
+  },
+  {
+    "text": "was",
+    "startMs": 6611,
+    "endMs": 6751,
+    "timestampMs": 6681,
+    "confidence": null
+  },
+  {
+    "text": "running",
+    "startMs": 6851,
+    "endMs": 7172,
+    "timestampMs": 7012,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 7232,
+    "endMs": 7312,
+    "timestampMs": 7272,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 7352,
+    "endMs": 7452,
+    "timestampMs": 7402,
+    "confidence": null
+  },
+  {
+    "text": "grass.",
+    "startMs": 7492,
+    "endMs": 8033,
+    "timestampMs": 7762,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 9075,
+    "endMs": 9195,
+    "timestampMs": 9135,
+    "confidence": null
+  },
+  {
+    "text": "mouse",
+    "startMs": 9255,
+    "endMs": 9616,
+    "timestampMs": 9436,
+    "confidence": null
+  },
+  {
+    "text": "did",
+    "startMs": 9696,
+    "endMs": 9876,
+    "timestampMs": 9786,
+    "confidence": null
+  },
+  {
+    "text": "not",
+    "startMs": 9976,
+    "endMs": 10197,
+    "timestampMs": 10086,
+    "confidence": null
+  },
+  {
+    "text": "look.",
+    "startMs": 10297,
+    "endMs": 10658,
+    "timestampMs": 10478,
+    "confidence": null
+  },
+  {
+    "text": "He",
+    "startMs": 11659,
+    "endMs": 11799,
+    "timestampMs": 11729,
+    "confidence": null
+  },
+  {
+    "text": "ran",
+    "startMs": 11900,
+    "endMs": 12140,
+    "timestampMs": 12020,
+    "confidence": null
+  },
+  {
+    "text": "over",
+    "startMs": 12260,
+    "endMs": 12460,
+    "timestampMs": 12360,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 12521,
+    "endMs": 12641,
+    "timestampMs": 12581,
+    "confidence": null
+  },
+  {
+    "text": "lion's",
+    "startMs": 12701,
+    "endMs": 13222,
+    "timestampMs": 12962,
+    "confidence": null
+  },
+  {
+    "text": "nose.",
+    "startMs": 13362,
+    "endMs": 13783,
+    "timestampMs": 13572,
+    "confidence": null
+  }
+]

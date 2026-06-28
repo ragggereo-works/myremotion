@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Thank",
+    "startMs": 80,
+    "endMs": 381,
+    "timestampMs": 230,
+    "confidence": null
+  },
+  {
+    "text": "you",
+    "startMs": 401,
+    "endMs": 582,
+    "timestampMs": 492,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 622,
+    "endMs": 783,
+    "timestampMs": 702,
+    "confidence": null
+  },
+  {
+    "text": "watching.",
+    "startMs": 843,
+    "endMs": 1425,
+    "timestampMs": 1134,
+    "confidence": null
+  },
+  {
+    "text": "See",
+    "startMs": 2428,
+    "endMs": 2649,
+    "timestampMs": 2538,
+    "confidence": null
+  },
+  {
+    "text": "you",
+    "startMs": 2689,
+    "endMs": 2830,
+    "timestampMs": 2760,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 2910,
+    "endMs": 2990,
+    "timestampMs": 2950,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 3030,
+    "endMs": 3131,
+    "timestampMs": 3080,
+    "confidence": null
+  },
+  {
+    "text": "next",
+    "startMs": 3191,
+    "endMs": 3432,
+    "timestampMs": 3312,
+    "confidence": null
+  },
+  {
+    "text": "story.",
+    "startMs": 3492,
+    "endMs": 3974,
+    "timestampMs": 3733,
+    "confidence": null
+  },
+  {
+    "text": "Goodbye!",
+    "startMs": 4696,
+    "endMs": 5238,
+    "timestampMs": 4967,
+    "confidence": null
+  }
+]

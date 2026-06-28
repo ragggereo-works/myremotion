@@ -1,0 +1,142 @@
+[
+  {
+    "text": "The",
+    "startMs": 80,
+    "endMs": 220,
+    "timestampMs": 150,
+    "confidence": null
+  },
+  {
+    "text": "story",
+    "startMs": 280,
+    "endMs": 661,
+    "timestampMs": 470,
+    "confidence": null
+  },
+  {
+    "text": "teaches",
+    "startMs": 741,
+    "endMs": 1102,
+    "timestampMs": 922,
+    "confidence": null
+  },
+  {
+    "text": "us",
+    "startMs": 1202,
+    "endMs": 1302,
+    "timestampMs": 1252,
+    "confidence": null
+  },
+  {
+    "text": "one",
+    "startMs": 1482,
+    "endMs": 1622,
+    "timestampMs": 1552,
+    "confidence": null
+  },
+  {
+    "text": "thing...",
+    "startMs": 1702,
+    "endMs": 2063,
+    "timestampMs": 1882,
+    "confidence": null
+  },
+  {
+    "text": "no",
+    "startMs": 3024,
+    "endMs": 3225,
+    "timestampMs": 3124,
+    "confidence": null
+  },
+  {
+    "text": "friend",
+    "startMs": 3325,
+    "endMs": 3645,
+    "timestampMs": 3485,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 3745,
+    "endMs": 3825,
+    "timestampMs": 3785,
+    "confidence": null
+  },
+  {
+    "text": "too",
+    "startMs": 3886,
+    "endMs": 4106,
+    "timestampMs": 3996,
+    "confidence": null
+  },
+  {
+    "text": "small,",
+    "startMs": 4206,
+    "endMs": 4647,
+    "timestampMs": 4426,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 5247,
+    "endMs": 5388,
+    "timestampMs": 5318,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 5448,
+    "endMs": 5468,
+    "timestampMs": 5458,
+    "confidence": null
+  },
+  {
+    "text": "kind",
+    "startMs": 5568,
+    "endMs": 5989,
+    "timestampMs": 5778,
+    "confidence": null
+  },
+  {
+    "text": "act",
+    "startMs": 6189,
+    "endMs": 6429,
+    "timestampMs": 6309,
+    "confidence": null
+  },
+  {
+    "text": "always",
+    "startMs": 6529,
+    "endMs": 6870,
+    "timestampMs": 6700,
+    "confidence": null
+  },
+  {
+    "text": "comes",
+    "startMs": 6930,
+    "endMs": 7230,
+    "timestampMs": 7080,
+    "confidence": null
+  },
+  {
+    "text": "back",
+    "startMs": 7330,
+    "endMs": 7591,
+    "timestampMs": 7460,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 7671,
+    "endMs": 7791,
+    "timestampMs": 7731,
+    "confidence": null
+  },
+  {
+    "text": "you.",
+    "startMs": 7851,
+    "endMs": 7991,
+    "timestampMs": 7921,
+    "confidence": null
+  }
+]

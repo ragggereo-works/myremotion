@@ -1,0 +1,198 @@
+[
+  {
+    "text": "The",
+    "startMs": 120,
+    "endMs": 260,
+    "timestampMs": 190,
+    "confidence": null
+  },
+  {
+    "text": "little",
+    "startMs": 361,
+    "endMs": 701,
+    "timestampMs": 531,
+    "confidence": null
+  },
+  {
+    "text": "mouse",
+    "startMs": 801,
+    "endMs": 1202,
+    "timestampMs": 1002,
+    "confidence": null
+  },
+  {
+    "text": "heard",
+    "startMs": 1302,
+    "endMs": 1602,
+    "timestampMs": 1452,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 1662,
+    "endMs": 1803,
+    "timestampMs": 1732,
+    "confidence": null
+  },
+  {
+    "text": "roar.",
+    "startMs": 1883,
+    "endMs": 2323,
+    "timestampMs": 2103,
+    "confidence": null
+  },
+  {
+    "text": "\"That",
+    "startMs": 2343,
+    "endMs": 3806,
+    "timestampMs": 3074,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 3906,
+    "endMs": 4006,
+    "timestampMs": 3956,
+    "confidence": null
+  },
+  {
+    "text": "my",
+    "startMs": 4086,
+    "endMs": 4266,
+    "timestampMs": 4176,
+    "confidence": null
+  },
+  {
+    "text": "friend,",
+    "startMs": 4386,
+    "endMs": 4747,
+    "timestampMs": 4566,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 4807,
+    "endMs": 4947,
+    "timestampMs": 4877,
+    "confidence": null
+  },
+  {
+    "text": "lion!\"",
+    "startMs": 5027,
+    "endMs": 5568,
+    "timestampMs": 5298,
+    "confidence": null
+  },
+  {
+    "text": "he",
+    "startMs": 6049,
+    "endMs": 6189,
+    "timestampMs": 6119,
+    "confidence": null
+  },
+  {
+    "text": "said.",
+    "startMs": 6309,
+    "endMs": 6610,
+    "timestampMs": 6460,
+    "confidence": null
+  },
+  {
+    "text": "\"He",
+    "startMs": 6630,
+    "endMs": 7491,
+    "timestampMs": 7060,
+    "confidence": null
+  },
+  {
+    "text": "needs",
+    "startMs": 7571,
+    "endMs": 7932,
+    "timestampMs": 7752,
+    "confidence": null
+  },
+  {
+    "text": "help!\"",
+    "startMs": 8072,
+    "endMs": 8492,
+    "timestampMs": 8282,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 9894,
+    "endMs": 10015,
+    "timestampMs": 9954,
+    "confidence": null
+  },
+  {
+    "text": "mouse",
+    "startMs": 10115,
+    "endMs": 10475,
+    "timestampMs": 10295,
+    "confidence": null
+  },
+  {
+    "text": "ran",
+    "startMs": 10615,
+    "endMs": 10936,
+    "timestampMs": 10776,
+    "confidence": null
+  },
+  {
+    "text": "fast",
+    "startMs": 11136,
+    "endMs": 11597,
+    "timestampMs": 11366,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 11697,
+    "endMs": 11837,
+    "timestampMs": 11767,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 11897,
+    "endMs": 12018,
+    "timestampMs": 11958,
+    "confidence": null
+  },
+  {
+    "text": "lion.",
+    "startMs": 12078,
+    "endMs": 12578,
+    "timestampMs": 12328,
+    "confidence": null
+  },
+  {
+    "text": "He",
+    "startMs": 13139,
+    "endMs": 13279,
+    "timestampMs": 13209,
+    "confidence": null
+  },
+  {
+    "text": "saw",
+    "startMs": 13379,
+    "endMs": 13640,
+    "timestampMs": 13510,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 13720,
+    "endMs": 13840,
+    "timestampMs": 13780,
+    "confidence": null
+  },
+  {
+    "text": "net.",
+    "startMs": 13940,
+    "endMs": 14221,
+    "timestampMs": 14080,
+    "confidence": null
+  }
+]

@@ -24,6 +24,15 @@ export const SAFE_MARGIN = 96;
 export const SHORT_WIDTH = 1080;
 export const SHORT_HEIGHT = 1920;
 
+// Horizontal "big story" format (A2 English channel) — 1920x1080, 30fps.
+export const VIDEO_WIDTH = 1920;
+export const VIDEO_HEIGHT = 1080;
+
+// Karaoke caption accent — the active word brightens to this gold over a
+// white base. Per the A2 brief this is #FFD700 (a brighter gold than BRAND.gold,
+// chosen for maximum legibility against full-brightness b-roll).
+export const CAPTION_ACCENT = "#FFD700";
+
 // Vertical safe zones: nothing in top 200px / bottom 300px (Shorts UI);
 // all text inside the middle 75% horizontally.
 export const SAFE_TOP = 200;

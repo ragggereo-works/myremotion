@@ -47,9 +47,19 @@ build
 # scratch
 /tmp/
 
+# whisper.cpp install + model (downloaded locally by scripts/transcribe-a2.mjs)
+/whisper.cpp/
+**/_whisper16k.wav
+
 # rendered output + source media (kept local, not committed)
 /data/
 *.mp4
 *.mp3
 # agent-driven render output
 /output/
+
+# whisperx python env
+/.venv-whisperx/
+
+# source images for A2 scenes/thumbnails (kept local, like the mp3/mp4)
+/public/a2_language/**/*.png
